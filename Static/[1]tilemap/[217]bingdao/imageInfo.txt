@@ -1,0 +1,4 @@
+tileWidth = 128
+tileHeight = 128
+colNum = 30
+rowNum = 26

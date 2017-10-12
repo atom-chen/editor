@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<tag name="image">
+	<group name="图片">
+		<property  id="1" name="图片ID" value="image_id" type="int" />
+		<property  id="21"  name="width" value="width" type="int" />
+		<property  id="22"  name="height" value="height" type="int" />
+		<property  id="23"  name="x" value="x" type="int" />
+		<property  id="24"  name="y" value="y" type="int" />
+		<property  id="2"  name="中心x" value="basisx" type="int" edit="true"/>
+		<property  id="3"  name="中心y" value="basisy" type="int" edit="true"/>
+		<property  id="4"  name="drawtype" value="drawtype" type="int"/>
+		<property  id="41"  name="xturn" value="xturn" type="int"/>
+		<property  id="42"  name="yturn" value="yturn" type="int"/>
+		<property  id="5"  name="scale" value="scale" type="float" edit="true"/>
+		<property  id="51"  name="alpha值" value="alpha" type="float" edit="true"/>
+		<property  id="6"  name="混合选项" value="blendoption" type="option" edit="true">
+			<option name="default" value="255" />
+			<option name="alpha" value="262399" />
+		</property>
+	</group>
+</tag>
+
+
+
+
+</root>
